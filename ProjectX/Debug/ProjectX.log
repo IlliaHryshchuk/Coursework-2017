@@ -1,0 +1,165 @@
+﻿  Entry.cpp
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\Header.h(44): warning C4091: 'static ' : ignored on left of 'Header' when no variable is declared
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(929): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(961): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(962): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(963): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(964): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(965): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(966): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1033): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1031): warning C4101: 'ptr' : unreferenced local variable
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1139): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1176): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1177): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1178): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1179): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1180): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1327): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(496): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(535): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(536): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(537): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(538): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(539): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(540): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(559): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(560): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(561): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(562): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(563): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(564): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(601): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(724): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(767): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(770): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(778): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(843): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(883): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\Entry.h(208): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+Entry.cpp(8): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  preview.cpp
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\Header.h(44): warning C4091: 'static ' : ignored on left of 'Header' when no variable is declared
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(929): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(961): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(962): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(963): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(964): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(965): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(966): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1033): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1031): warning C4101: 'ptr' : unreferenced local variable
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1139): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1176): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1177): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1178): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1179): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1180): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\admin.h(1327): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(496): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(535): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(536): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(537): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(538): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(539): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(540): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(559): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(560): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(561): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(562): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(563): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(564): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\string.h(112) : see declaration of 'strcpy'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(601): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(724): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(767): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(770): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(778): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(843): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\user.h(883): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+f:\khnu\кі-17-1 грищук і.і. курсова\projectx\projectx\Entry.h(208): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          F:\programs\visual studio\VC\include\stdio.h(211) : see declaration of 'fopen'
+  Generating Code...
+  ProjectX.vcxproj -> F:\KHNU\КІ-17-1 Грищук І.І. КУРСОВА\ProjectX\Debug\ProjectX.exe

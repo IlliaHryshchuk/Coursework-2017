@@ -1,0 +1,7 @@
+user - 1.50
+user2 - 1.00
+user3 - 4.00
+user4 - 4.00
+user5 - 0.00
+user5 - 4.00
+USER - 0.67
